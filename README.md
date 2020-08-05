@@ -6,4 +6,4 @@ Portik, D.M., Blackburn, D.C., and J.A. McGuire. 2020. Macroevolutionary pattern
 
 The paper is provided as a PDF in this repository, but can also be found on the publisher's website here.
 
-The R-script Phylogenetic_comparative_analyses.R uses data available in the data folder. To use the R script, you will need to edit the paths to the various files.
+The R-script `Phylogenetic_comparative_analyses.R` uses data available in the data folder. To use the R script, you will need to edit the paths to the various files.
